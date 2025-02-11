@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\04-routing_without_mvc.props" />
+</Project>
