@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\05-map_methods_routing.props" />
+</Project>

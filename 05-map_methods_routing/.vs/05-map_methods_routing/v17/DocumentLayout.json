@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\05-map_methods_routing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49125FCC-DB78-48D6-9394-22F9DB91F812}|05-map_methods_routing\\05-map_methods_routing.csproj|d:\\.net\\05-map_methods_routing\\05-map_methods_routing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49125FCC-DB78-48D6-9394-22F9DB91F812}|05-map_methods_routing\\05-map_methods_routing.csproj|solutionrelative:05-map_methods_routing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\05-map_methods_routing\\05-map_methods_routing\\Program.cs",
+              "RelativeDocumentMoniker": "05-map_methods_routing\\Program.cs",
+              "ToolTip": "D:\\.Net\\05-map_methods_routing\\05-map_methods_routing\\Program.cs",
+              "RelativeToolTip": "05-map_methods_routing\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T07:05:50.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
