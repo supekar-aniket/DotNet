@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "ViewBagExample";
+}
+
+<h1>ViewBagExample</h1>
+
+@ViewBag.name
+<br />
+@ViewBag.age
+<br />
+@ViewBag.datetime
+<br />
+
+@{
+    foreach(var items in ViewBag.cars){
+        <h1>@items</h1>
+    }
+}
+<br />
+
+@{
+    foreach (var items in ViewBag.games)
+    {
+        <h1>@items</h1>
+    }
+}
+<br />
+
+@ViewBag.color
+<br />
+
+@ViewData["backgroundColor"]
+
+@* example of Temp Data *@
+
+@ViewData["viewData"]
+<br />
+@ViewBag.viewBag
+<br />
+@TempData["tempData"]
+

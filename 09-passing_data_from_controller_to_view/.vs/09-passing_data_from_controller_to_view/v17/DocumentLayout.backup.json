@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\09-passing_data_from_controller_to_view\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D8FCCA-E3CC-410A-9BC3-BF31AB47CA9E}|09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view.csproj|d:\\.net\\09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D8FCCA-E3CC-410A-9BC3-BF31AB47CA9E}|09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view.csproj|solutionrelative:09-passing_data_from_controller_to_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D8FCCA-E3CC-410A-9BC3-BF31AB47CA9E}|09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view.csproj|d:\\.net\\09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view\\views\\home\\viewbagexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8D8FCCA-E3CC-410A-9BC3-BF31AB47CA9E}|09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view.csproj|solutionrelative:09-passing_data_from_controller_to_view\\views\\home\\viewbagexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D8FCCA-E3CC-410A-9BC3-BF31AB47CA9E}|09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view.csproj|d:\\.net\\09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view\\views\\home\\tempdataexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8D8FCCA-E3CC-410A-9BC3-BF31AB47CA9E}|09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view.csproj|solutionrelative:09-passing_data_from_controller_to_view\\views\\home\\tempdataexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D8FCCA-E3CC-410A-9BC3-BF31AB47CA9E}|09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view.csproj|d:\\.net\\09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D8FCCA-E3CC-410A-9BC3-BF31AB47CA9E}|09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view.csproj|solutionrelative:09-passing_data_from_controller_to_view\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view\\Program.cs",
+              "RelativeDocumentMoniker": "09-passing_data_from_controller_to_view\\Program.cs",
+              "ToolTip": "D:\\.Net\\09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view\\Program.cs",
+              "RelativeToolTip": "09-passing_data_from_controller_to_view\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:55:09.003Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view\\Controller\\HomeController.cs",
+              "RelativeDocumentMoniker": "09-passing_data_from_controller_to_view\\Controller\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view\\Controller\\HomeController.cs",
+              "RelativeToolTip": "09-passing_data_from_controller_to_view\\Controller\\HomeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:01:49.67Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TempDataExample.cshtml",
+              "DocumentMoniker": "D:\\.Net\\09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view\\Views\\Home\\TempDataExample.cshtml",
+              "RelativeDocumentMoniker": "09-passing_data_from_controller_to_view\\Views\\Home\\TempDataExample.cshtml",
+              "ToolTip": "D:\\.Net\\09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view\\Views\\Home\\TempDataExample.cshtml",
+              "RelativeToolTip": "09-passing_data_from_controller_to_view\\Views\\Home\\TempDataExample.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T10:04:25.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewBagExample.cshtml",
+              "DocumentMoniker": "D:\\.Net\\09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view\\Views\\Home\\ViewBagExample.cshtml",
+              "RelativeDocumentMoniker": "09-passing_data_from_controller_to_view\\Views\\Home\\ViewBagExample.cshtml",
+              "ToolTip": "D:\\.Net\\09-passing_data_from_controller_to_view\\09-passing_data_from_controller_to_view\\Views\\Home\\ViewBagExample.cshtml",
+              "RelativeToolTip": "09-passing_data_from_controller_to_view\\Views\\Home\\ViewBagExample.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T09:37:41.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

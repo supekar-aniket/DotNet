@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\07-layout_view\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C228DFCB-5130-4C1D-B32C-782877C236AF}|07-layout_view\\07-layout_view.csproj|d:\\.net\\07-layout_view\\07-layout_view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C228DFCB-5130-4C1D-B32C-782877C236AF}|07-layout_view\\07-layout_view.csproj|solutionrelative:07-layout_view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C228DFCB-5130-4C1D-B32C-782877C236AF}|07-layout_view\\07-layout_view.csproj|d:\\.net\\07-layout_view\\07-layout_view\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C228DFCB-5130-4C1D-B32C-782877C236AF}|07-layout_view\\07-layout_view.csproj|solutionrelative:07-layout_view\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C228DFCB-5130-4C1D-B32C-782877C236AF}|07-layout_view\\07-layout_view.csproj|d:\\.net\\07-layout_view\\07-layout_view\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C228DFCB-5130-4C1D-B32C-782877C236AF}|07-layout_view\\07-layout_view.csproj|solutionrelative:07-layout_view\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C228DFCB-5130-4C1D-B32C-782877C236AF}|07-layout_view\\07-layout_view.csproj|d:\\.net\\07-layout_view\\07-layout_view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C228DFCB-5130-4C1D-B32C-782877C236AF}|07-layout_view\\07-layout_view.csproj|solutionrelative:07-layout_view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C228DFCB-5130-4C1D-B32C-782877C236AF}|07-layout_view\\07-layout_view.csproj|d:\\.net\\07-layout_view\\07-layout_view\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C228DFCB-5130-4C1D-B32C-782877C236AF}|07-layout_view\\07-layout_view.csproj|solutionrelative:07-layout_view\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C228DFCB-5130-4C1D-B32C-782877C236AF}|07-layout_view\\07-layout_view.csproj|d:\\.net\\07-layout_view\\07-layout_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C228DFCB-5130-4C1D-B32C-782877C236AF}|07-layout_view\\07-layout_view.csproj|solutionrelative:07-layout_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\07-layout_view\\07-layout_view\\Program.cs",
+              "RelativeDocumentMoniker": "07-layout_view\\Program.cs",
+              "ToolTip": "D:\\.Net\\07-layout_view\\07-layout_view\\Program.cs",
+              "RelativeToolTip": "07-layout_view\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:57:57.273Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\07-layout_view\\07-layout_view\\Controller\\HomeController.cs",
+              "RelativeDocumentMoniker": "07-layout_view\\Controller\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\07-layout_view\\07-layout_view\\Controller\\HomeController.cs",
+              "RelativeToolTip": "07-layout_view\\Controller\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:03:05.305Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.Net\\07-layout_view\\07-layout_view\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "07-layout_view\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.Net\\07-layout_view\\07-layout_view\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "07-layout_view\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T07:10:47.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\.Net\\07-layout_view\\07-layout_view\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "07-layout_view\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\.Net\\07-layout_view\\07-layout_view\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "07-layout_view\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T07:07:16.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\.Net\\07-layout_view\\07-layout_view\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "07-layout_view\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\.Net\\07-layout_view\\07-layout_view\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "07-layout_view\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T07:06:30.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\07-layout_view\\07-layout_view\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "07-layout_view\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\07-layout_view\\07-layout_view\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "07-layout_view\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T07:04:38.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
