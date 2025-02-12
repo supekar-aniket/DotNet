@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Home Index</h1>
+<h1>Current Date and Time is: @DateTime.Now </h1> @* for single line of C# *@
+<h1>Current Year is: @DateTime.Now.Year </h1>
+
+@* declare a variable *@
+@{ @*for multiple line of C#*@
+    var name = "Agastya";
+    int age = 10;
+}
+
+@* display content in variable *@
+<h1>Name : @name</h1>
+<h1>Age : @age</h1>
+
+@* for loop *@
+@{
+    for(int i=0; i<=10; i++){
+        <h1>@i</h1>
+    }
+}
+
+@{
+    string[] names = {"Agastya","harsal","Akas","Beduk"};
+
+    foreach(string items in names){
+        <h1>@items</h1>
+    }
+}
+
+
