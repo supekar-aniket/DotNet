@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\13-strongly_typed_view.props" />
+</Project>

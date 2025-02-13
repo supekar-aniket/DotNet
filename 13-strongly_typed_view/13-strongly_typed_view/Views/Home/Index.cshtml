@@ -1,0 +1,57 @@
+﻿@* @model Employee *@
+@model IEnumerable<Employee>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@* <h1>@Model.EmpId</h1> *@
+@* <h1>@Model.EmpName</h1> *@
+@* <h1>@Model.Designation</h1> *@
+@* <h1>@Model.Salary</h1> *@
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        border: 1px solid black;
+        padding: 4px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
+
+<table border="1">
+    @{
+        if(Model != null){
+            <tr>
+                <th>EmpId</th>
+                <th>EmpName</th>
+                <th>Designation</th>
+                <th>Salary</th>
+            </tr>
+            @foreach (var emp in Model)
+            {
+                <tr>
+                    <td>@emp.EmpId</td>
+                    <td>@emp.EmpName</td>
+                    <td>@emp.Designation</td>
+                    <td>@emp.Salary</td>
+                </tr>
+            }
+        } else {
+            <h1>Data not Found !!!</h1>
+        }
+    }
+</table>

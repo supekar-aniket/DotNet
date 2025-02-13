@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\13-strongly_typed_view.props" />
+</Project>
