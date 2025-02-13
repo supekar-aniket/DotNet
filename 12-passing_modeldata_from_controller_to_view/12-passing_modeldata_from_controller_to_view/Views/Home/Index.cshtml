@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+    // its for single emp data
+    // its required typcasting
+    // var emp = ViewData["empData"] as Employee;
+
+    // its does not required typecasting
+    // var emp = ViewBag.empData;
+
+    // its required typecasting
+    // var emp = TempData["empData"] as Employee;
+
+    // its for single emp data
+    // var emps = ViewData["empsData"] as List<Employee>;
+    // var emps = ViewBag.empsData;
+    var emps = TempData["empsData"] as List<Employee>;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@* @{ *@
+@*     if(@emp != null){ *@
+@*         <h1>EmpId : @emp.EmpId</h1> *@
+@*         <h1>EmpName : @emp.EmpName</h1> *@
+@*         <h1>Designation : @emp.Designation</h1> *@
+@*         <h1>Salary : @emp.Salary</h1> *@
+@*     }else { *@
+@*         <h1>Data not found !!!</h1> *@
+@*     } *@
+@* } *@
+
+<table border="1">
+    
+        @{
+            if(emps != null){
+                <tr style="border:double">
+                    <th>EmpId</th>
+                    <th>EmpName</th>
+                    <th>Designaton</th>
+                    <th>salary</th>
+                </tr>
+
+                foreach (var emp in emps)
+                {
+                    <tr style="border:double">
+                        <td> @emp.EmpId </td>
+                        <td> @emp.EmpName</td>
+                        <td> @emp.Designation</td>
+                        <td> @emp.Salary</td>
+                    </tr>
+                }
+            } else {
+                <h1>Data not Found !!!</h1>
+            }
+        }
+</table>

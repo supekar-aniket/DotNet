@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\12-passing_modeldata_from_controller_to_view.props" />
+</Project>
