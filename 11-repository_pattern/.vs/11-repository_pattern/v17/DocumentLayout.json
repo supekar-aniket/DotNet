@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\11-repository_pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89F8A66B-9F75-40AF-B6FD-78DEF70DFC17}|11-repository_pattern\\11-repository_pattern.csproj|d:\\.net\\11-repository_pattern\\11-repository_pattern\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F8A66B-9F75-40AF-B6FD-78DEF70DFC17}|11-repository_pattern\\11-repository_pattern.csproj|solutionrelative:11-repository_pattern\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F8A66B-9F75-40AF-B6FD-78DEF70DFC17}|11-repository_pattern\\11-repository_pattern.csproj|d:\\.net\\11-repository_pattern\\11-repository_pattern\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F8A66B-9F75-40AF-B6FD-78DEF70DFC17}|11-repository_pattern\\11-repository_pattern.csproj|solutionrelative:11-repository_pattern\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F8A66B-9F75-40AF-B6FD-78DEF70DFC17}|11-repository_pattern\\11-repository_pattern.csproj|d:\\.net\\11-repository_pattern\\11-repository_pattern\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F8A66B-9F75-40AF-B6FD-78DEF70DFC17}|11-repository_pattern\\11-repository_pattern.csproj|solutionrelative:11-repository_pattern\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F8A66B-9F75-40AF-B6FD-78DEF70DFC17}|11-repository_pattern\\11-repository_pattern.csproj|d:\\.net\\11-repository_pattern\\11-repository_pattern\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F8A66B-9F75-40AF-B6FD-78DEF70DFC17}|11-repository_pattern\\11-repository_pattern.csproj|solutionrelative:11-repository_pattern\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F8A66B-9F75-40AF-B6FD-78DEF70DFC17}|11-repository_pattern\\11-repository_pattern.csproj|d:\\.net\\11-repository_pattern\\11-repository_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F8A66B-9F75-40AF-B6FD-78DEF70DFC17}|11-repository_pattern\\11-repository_pattern.csproj|solutionrelative:11-repository_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\11-repository_pattern\\11-repository_pattern\\Program.cs",
+              "RelativeDocumentMoniker": "11-repository_pattern\\Program.cs",
+              "ToolTip": "D:\\.Net\\11-repository_pattern\\11-repository_pattern\\Program.cs",
+              "RelativeToolTip": "11-repository_pattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:05:00.07Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\11-repository_pattern\\11-repository_pattern\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "11-repository_pattern\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\11-repository_pattern\\11-repository_pattern\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "11-repository_pattern\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:05:12.79Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\11-repository_pattern\\11-repository_pattern\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "11-repository_pattern\\Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\.Net\\11-repository_pattern\\11-repository_pattern\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "11-repository_pattern\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:30:37.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "D:\\.Net\\11-repository_pattern\\11-repository_pattern\\Repository\\IStudent.cs",
+              "RelativeDocumentMoniker": "11-repository_pattern\\Repository\\IStudent.cs",
+              "ToolTip": "D:\\.Net\\11-repository_pattern\\11-repository_pattern\\Repository\\IStudent.cs",
+              "RelativeToolTip": "11-repository_pattern\\Repository\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:27:00.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.Net\\11-repository_pattern\\11-repository_pattern\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "11-repository_pattern\\Models\\Student.cs",
+              "ToolTip": "D:\\.Net\\11-repository_pattern\\11-repository_pattern\\Models\\Student.cs",
+              "RelativeToolTip": "11-repository_pattern\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:24:54.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

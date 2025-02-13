@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\11-repository_pattern.props" />
+</Project>
