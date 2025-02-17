@@ -1,0 +1,19 @@
+﻿@* @model List<_15_viewImports_file.Models.Student> *@
+@* namespace add already add in viewImports file *@
+
+
+@model List<Student>
+
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h1>Contact</h1>
+
+@{
+    foreach (var item in Model)
+    {
+        <h1>@item.Id</h1>
+        <h1>@item.Name</h1>
+    }
+}
