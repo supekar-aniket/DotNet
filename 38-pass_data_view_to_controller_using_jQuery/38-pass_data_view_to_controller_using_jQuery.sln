@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38-pass_data_view_to_controller_using_jQuery", "38-pass_data_view_to_controller_using_jQuery\38-pass_data_view_to_controller_using_jQuery.csproj", "{32C86C0B-B829-46AC-85A8-8ED69F662A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32C86C0B-B829-46AC-85A8-8ED69F662A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C86C0B-B829-46AC-85A8-8ED69F662A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C86C0B-B829-46AC-85A8-8ED69F662A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C86C0B-B829-46AC-85A8-8ED69F662A67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7780A920-501F-45C9-9551-F46849F91FB0}
+	EndGlobalSection
+EndGlobal

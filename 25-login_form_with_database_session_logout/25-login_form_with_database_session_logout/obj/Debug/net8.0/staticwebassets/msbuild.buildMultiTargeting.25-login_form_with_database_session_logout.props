@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\25-login_form_with_database_session_logout.props" />
+</Project>

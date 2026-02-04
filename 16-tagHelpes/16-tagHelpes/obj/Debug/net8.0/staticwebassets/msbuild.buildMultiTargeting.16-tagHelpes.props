@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\16-tagHelpes.props" />
+</Project>

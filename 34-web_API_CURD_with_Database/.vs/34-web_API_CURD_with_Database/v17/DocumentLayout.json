@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\34-web_API_CURD_with_Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2C9802-F073-4CD1-BEAA-9A66917BEEF9}|34-web_API_CURD_with_Database\\34-web_API_CURD_with_Database.csproj|d:\\.net\\34-web_api_curd_with_database\\34-web_api_curd_with_database\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2C9802-F073-4CD1-BEAA-9A66917BEEF9}|34-web_API_CURD_with_Database\\34-web_API_CURD_with_Database.csproj|solutionrelative:34-web_api_curd_with_database\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2C9802-F073-4CD1-BEAA-9A66917BEEF9}|34-web_API_CURD_with_Database\\34-web_API_CURD_with_Database.csproj|d:\\.net\\34-web_api_curd_with_database\\34-web_api_curd_with_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2C9802-F073-4CD1-BEAA-9A66917BEEF9}|34-web_API_CURD_with_Database\\34-web_API_CURD_with_Database.csproj|solutionrelative:34-web_api_curd_with_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\34-web_API_CURD_with_Database\\34-web_API_CURD_with_Database\\Program.cs",
+              "RelativeDocumentMoniker": "34-web_API_CURD_with_Database\\Program.cs",
+              "ToolTip": "D:\\.Net\\34-web_API_CURD_with_Database\\34-web_API_CURD_with_Database\\Program.cs",
+              "RelativeToolTip": "34-web_API_CURD_with_Database\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:25:06.649Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "D:\\.Net\\34-web_API_CURD_with_Database\\34-web_API_CURD_with_Database\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "34-web_API_CURD_with_Database\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "D:\\.Net\\34-web_API_CURD_with_Database\\34-web_API_CURD_with_Database\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "34-web_API_CURD_with_Database\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:05:56.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

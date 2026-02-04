@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\36-registration_login_logout_using_Identity_framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B50985A3-68C2-45A2-9F4B-DEED3194BFC8}|36-registration_login_logout_using_Identity_framework\\36-registration_login_logout_using_Identity_framework.csproj|d:\\.net\\36-registration_login_logout_using_identity_framework\\36-registration_login_logout_using_identity_framework\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50985A3-68C2-45A2-9F4B-DEED3194BFC8}|36-registration_login_logout_using_Identity_framework\\36-registration_login_logout_using_Identity_framework.csproj|solutionrelative:36-registration_login_logout_using_identity_framework\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50985A3-68C2-45A2-9F4B-DEED3194BFC8}|36-registration_login_logout_using_Identity_framework\\36-registration_login_logout_using_Identity_framework.csproj|d:\\.net\\36-registration_login_logout_using_identity_framework\\36-registration_login_logout_using_identity_framework\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B50985A3-68C2-45A2-9F4B-DEED3194BFC8}|36-registration_login_logout_using_Identity_framework\\36-registration_login_logout_using_Identity_framework.csproj|solutionrelative:36-registration_login_logout_using_identity_framework\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50985A3-68C2-45A2-9F4B-DEED3194BFC8}|36-registration_login_logout_using_Identity_framework\\36-registration_login_logout_using_Identity_framework.csproj|d:\\.net\\36-registration_login_logout_using_identity_framework\\36-registration_login_logout_using_identity_framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50985A3-68C2-45A2-9F4B-DEED3194BFC8}|36-registration_login_logout_using_Identity_framework\\36-registration_login_logout_using_Identity_framework.csproj|solutionrelative:36-registration_login_logout_using_identity_framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\36-registration_login_logout_using_Identity_framework\\36-registration_login_logout_using_Identity_framework\\Program.cs",
+              "RelativeDocumentMoniker": "36-registration_login_logout_using_Identity_framework\\Program.cs",
+              "ToolTip": "D:\\.Net\\36-registration_login_logout_using_Identity_framework\\36-registration_login_logout_using_Identity_framework\\Program.cs",
+              "RelativeToolTip": "36-registration_login_logout_using_Identity_framework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:08:34.909Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.Net\\36-registration_login_logout_using_Identity_framework\\36-registration_login_logout_using_Identity_framework\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "36-registration_login_logout_using_Identity_framework\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\.Net\\36-registration_login_logout_using_Identity_framework\\36-registration_login_logout_using_Identity_framework\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "36-registration_login_logout_using_Identity_framework\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T09:08:54.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\.Net\\36-registration_login_logout_using_Identity_framework\\36-registration_login_logout_using_Identity_framework\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "36-registration_login_logout_using_Identity_framework\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\.Net\\36-registration_login_logout_using_Identity_framework\\36-registration_login_logout_using_Identity_framework\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "36-registration_login_logout_using_Identity_framework\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA2wAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:09:53.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

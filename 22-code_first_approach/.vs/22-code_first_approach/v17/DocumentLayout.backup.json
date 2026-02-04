@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\22-code_first_approach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|d:\\.net\\22-code_first_approach\\22-code_first_approach\\migrations\\20260131085757_firt-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|solutionrelative:22-code_first_approach\\migrations\\20260131085757_firt-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|d:\\.net\\22-code_first_approach\\22-code_first_approach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|solutionrelative:22-code_first_approach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|d:\\.net\\22-code_first_approach\\22-code_first_approach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|solutionrelative:22-code_first_approach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|d:\\.net\\22-code_first_approach\\22-code_first_approach\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|solutionrelative:22-code_first_approach\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|d:\\.net\\22-code_first_approach\\22-code_first_approach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|solutionrelative:22-code_first_approach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|d:\\.net\\22-code_first_approach\\22-code_first_approach\\migrations\\20250224215725_codefirstapproach-initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|solutionrelative:22-code_first_approach\\migrations\\20250224215725_codefirstapproach-initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|d:\\.net\\22-code_first_approach\\22-code_first_approach\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|solutionrelative:22-code_first_approach\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|d:\\.net\\22-code_first_approach\\22-code_first_approach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|solutionrelative:22-code_first_approach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|d:\\.net\\22-code_first_approach\\22-code_first_approach\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|solutionrelative:22-code_first_approach\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|d:\\.net\\22-code_first_approach\\22-code_first_approach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|solutionrelative:22-code_first_approach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|d:\\.net\\22-code_first_approach\\22-code_first_approach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|solutionrelative:22-code_first_approach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|d:\\.net\\22-code_first_approach\\22-code_first_approach\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|solutionrelative:22-code_first_approach\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|d:\\.net\\22-code_first_approach\\22-code_first_approach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{282C0130-3B29-4D53-855F-5C0B994D08BE}|22-code_first_approach\\22-code_first_approach.csproj|solutionrelative:22-code_first_approach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Program.cs",
+              "RelativeDocumentMoniker": "22-code_first_approach\\Program.cs",
+              "ToolTip": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Program.cs",
+              "RelativeToolTip": "22-code_first_approach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T08:39:10.833Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\appsettings.json",
+              "RelativeDocumentMoniker": "22-code_first_approach\\appsettings.json",
+              "ToolTip": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\appsettings.json",
+              "RelativeToolTip": "22-code_first_approach\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T19:19:06.574Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "22-code_first_approach\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "22-code_first_approach\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:34:16.753Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260131085757_firt-migration.cs",
+              "DocumentMoniker": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Migrations\\20260131085757_firt-migration.cs",
+              "RelativeDocumentMoniker": "22-code_first_approach\\Migrations\\20260131085757_firt-migration.cs",
+              "ToolTip": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Migrations\\20260131085757_firt-migration.cs",
+              "RelativeToolTip": "22-code_first_approach\\Migrations\\20260131085757_firt-migration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T08:57:58.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "22-code_first_approach\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "22-code_first_approach\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T08:53:24.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "22-code_first_approach\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "22-code_first_approach\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:41:19.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250224215725_CodeFirstApproach-Initial.cs",
+              "DocumentMoniker": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Migrations\\20250224215725_CodeFirstApproach-Initial.cs",
+              "RelativeDocumentMoniker": "22-code_first_approach\\Migrations\\20250224215725_CodeFirstApproach-Initial.cs",
+              "ToolTip": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Migrations\\20250224215725_CodeFirstApproach-Initial.cs",
+              "RelativeToolTip": "22-code_first_approach\\Migrations\\20250224215725_CodeFirstApproach-Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:41:36.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "22-code_first_approach\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "22-code_first_approach\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAEBRwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T19:02:37.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "22-code_first_approach\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "22-code_first_approach\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T13:17:09.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "22-code_first_approach\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "22-code_first_approach\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAEBRwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T12:53:31.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "22-code_first_approach\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "22-code_first_approach\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAEBRwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T12:17:29.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "22-code_first_approach\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "22-code_first_approach\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T12:04:17.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "22-code_first_approach\\Models\\Student.cs",
+              "ToolTip": "D:\\.Net\\22-code_first_approach\\22-code_first_approach\\Models\\Student.cs",
+              "RelativeToolTip": "22-code_first_approach\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:24:37.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

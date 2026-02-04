@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\12-passing_modeldata_from_controller_to_view\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0AF1B7-40D5-44CB-9D12-B57B6D35326B}|12-passing_modeldata_from_controller_to_view\\12-passing_modeldata_from_controller_to_view.csproj|d:\\.net\\12-passing_modeldata_from_controller_to_view\\12-passing_modeldata_from_controller_to_view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0AF1B7-40D5-44CB-9D12-B57B6D35326B}|12-passing_modeldata_from_controller_to_view\\12-passing_modeldata_from_controller_to_view.csproj|solutionrelative:12-passing_modeldata_from_controller_to_view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0AF1B7-40D5-44CB-9D12-B57B6D35326B}|12-passing_modeldata_from_controller_to_view\\12-passing_modeldata_from_controller_to_view.csproj|d:\\.net\\12-passing_modeldata_from_controller_to_view\\12-passing_modeldata_from_controller_to_view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0AF1B7-40D5-44CB-9D12-B57B6D35326B}|12-passing_modeldata_from_controller_to_view\\12-passing_modeldata_from_controller_to_view.csproj|solutionrelative:12-passing_modeldata_from_controller_to_view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\12-passing_modeldata_from_controller_to_view\\12-passing_modeldata_from_controller_to_view\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "12-passing_modeldata_from_controller_to_view\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\12-passing_modeldata_from_controller_to_view\\12-passing_modeldata_from_controller_to_view\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "12-passing_modeldata_from_controller_to_view\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:20:15.57Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\12-passing_modeldata_from_controller_to_view\\12-passing_modeldata_from_controller_to_view\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "12-passing_modeldata_from_controller_to_view\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\12-passing_modeldata_from_controller_to_view\\12-passing_modeldata_from_controller_to_view\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "12-passing_modeldata_from_controller_to_view\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T07:22:58.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

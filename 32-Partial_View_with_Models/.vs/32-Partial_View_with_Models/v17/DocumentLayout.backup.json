@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\32-Partial_View_with_Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67D22C3E-8EC3-4664-B7F4-204C508356B8}|32-Partial_View_with_Models\\32-Partial_View_with_Models.csproj|d:\\.net\\32-partial_view_with_models\\32-partial_view_with_models\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67D22C3E-8EC3-4664-B7F4-204C508356B8}|32-Partial_View_with_Models\\32-Partial_View_with_Models.csproj|solutionrelative:32-partial_view_with_models\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D22C3E-8EC3-4664-B7F4-204C508356B8}|32-Partial_View_with_Models\\32-Partial_View_with_Models.csproj|d:\\.net\\32-partial_view_with_models\\32-partial_view_with_models\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67D22C3E-8EC3-4664-B7F4-204C508356B8}|32-Partial_View_with_Models\\32-Partial_View_with_Models.csproj|solutionrelative:32-partial_view_with_models\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D22C3E-8EC3-4664-B7F4-204C508356B8}|32-Partial_View_with_Models\\32-Partial_View_with_Models.csproj|d:\\.net\\32-partial_view_with_models\\32-partial_view_with_models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D22C3E-8EC3-4664-B7F4-204C508356B8}|32-Partial_View_with_Models\\32-Partial_View_with_Models.csproj|solutionrelative:32-partial_view_with_models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D22C3E-8EC3-4664-B7F4-204C508356B8}|32-Partial_View_with_Models\\32-Partial_View_with_Models.csproj|d:\\.net\\32-partial_view_with_models\\32-partial_view_with_models\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D22C3E-8EC3-4664-B7F4-204C508356B8}|32-Partial_View_with_Models\\32-Partial_View_with_Models.csproj|solutionrelative:32-partial_view_with_models\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ProductPartialView.cshtml",
+              "DocumentMoniker": "D:\\.Net\\32-Partial_View_with_Models\\32-Partial_View_with_Models\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeDocumentMoniker": "32-Partial_View_with_Models\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ToolTip": "D:\\.Net\\32-Partial_View_with_Models\\32-Partial_View_with_Models\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeToolTip": "32-Partial_View_with_Models\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T07:34:04.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\.Net\\32-Partial_View_with_Models\\32-Partial_View_with_Models\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "32-Partial_View_with_Models\\Views\\Home\\Products.cshtml",
+              "ToolTip": "D:\\.Net\\32-Partial_View_with_Models\\32-Partial_View_with_Models\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "32-Partial_View_with_Models\\Views\\Home\\Products.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T07:23:05.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\.Net\\32-Partial_View_with_Models\\32-Partial_View_with_Models\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "32-Partial_View_with_Models\\Models\\Product.cs",
+              "ToolTip": "D:\\.Net\\32-Partial_View_with_Models\\32-Partial_View_with_Models\\Models\\Product.cs",
+              "RelativeToolTip": "32-Partial_View_with_Models\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:19:26.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\32-Partial_View_with_Models\\32-Partial_View_with_Models\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "32-Partial_View_with_Models\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\32-Partial_View_with_Models\\32-Partial_View_with_Models\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "32-Partial_View_with_Models\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:19:54.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

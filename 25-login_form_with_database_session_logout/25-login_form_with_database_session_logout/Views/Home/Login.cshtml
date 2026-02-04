@@ -1,0 +1,47 @@
+﻿@model _25_login_form_with_database_session_logout.Models.User
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+
+@* <h4>User</h4> *@
+<hr />
+<div class="row">
+    <div class="col-md-4">
+
+        @{
+            if (ViewBag.ErrorMessage != null) {
+                <p style="color:red">@ViewBag.ErrorMessage</p>
+            }
+
+            if (TempData["SuccesMessage"] != null)
+            {
+                <p style="color:green">@TempData["SuccesMessage"]</p>
+            }
+        }   
+
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div> <br />
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+            <a asp-controller="Home" asp-action="Register">Your not register yet? Click here!</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

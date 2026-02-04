@@ -1,0 +1,37 @@
+﻿@model _27_binding_dropdownlist_with_database.Models.Payment
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Payment Method Selection</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-6">
+
+        <p>Selected Payment Method: @ViewBag.CurrentPaymentMethod</p>
+
+        <form asp-action="Index" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="PaymentMethod" class="control-label"></label>
+                <select asp-for="PaymentMethod" class="form-control" asp-items="ViewBag.PaymentMethods">
+                    <option value="">-- Select Payment Method --</option>
+                </select>
+                <span asp-validation-for="PaymentMethod" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <input type="submit" value="Submit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container">
+
+    <div class="row">
+
+        <div class="col-md-4">
+
+            @* <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">First Name</label>
+                <input type="text" class="form-control" id="firstname" placeholder="First Name">
+            </div>
+
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Last Name</label>
+                <input type="text" class="form-control" id="lastname" placeholder="Last Name">
+            </div>   
+
+            <button class="btn btn-info btn-sm" onclick="Display()">Submit</button>
+
+            <br />
+
+            <h4 id="result"></h4> *@
+
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">First Number</label>
+                <input type="text" class="form-control" id="num1" placeholder="First Number">
+            </div>
+
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Second Number</label>
+                <input type="text" class="form-control" id="num2" placeholder="Second Number">
+            </div>
+
+            <button class="btn btn-info btn-sm" onclick="Display()">Submit</button>
+
+            <br />
+
+            <h4 id="result"></h4>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<script type="text/javascript">
+
+    // $(document).ready(function () {
+    //     alert("Welcome to jQuery...");
+    // });
+
+
+    // function Display() {
+
+    //     var firstname = $("#firstname").val();
+    //     var lastname = $("#lastname").val();
+
+    //     var data = firstname + " " + lastname;
+
+    //     $("#result").text(data);
+    // }
+
+    function Display(){
+
+        var num1 = parseInt($("#num1").val());
+        var num2 = parseInt($("#num2").val());
+
+        var data = num1 + num2;
+
+        $("#result").text(data);
+    }
+
+</script>

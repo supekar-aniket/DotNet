@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\18-creating_from_using_tagHelper.props" />
+</Project>

@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container">
+
+    <div class="row-cols-md-4">
+
+        <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">First Number</label>
+            <input type="text" class="form-control" id="num1" placeholder="First Number">
+        </div>
+
+        <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">Second Number</label>
+            <input type="text" class="form-control" id="num2" placeholder="Second Number">
+        </div>
+
+        <button class="btn btn-info btn-sm" onclick="Display()">Calculate</button>
+
+        <br />
+
+        <h4 id="result"></h4>
+
+    </div>
+
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<script type="text/javascript">
+
+    function Display() {
+
+        var n1 = parseFloat($("#num1").val());
+        var n2 = parseFloat($("#num2").val());
+
+        $.ajax({
+            type:'POST',
+            url:'@Url.Action("Calculate")',
+            data:{num1 : n1,num2 : n2},
+            dataType:'json',
+            success: function (response, status, xhr) {
+                var data = "Addition : " + response.add +
+                            "<br>Division : " + response.subtract +
+                            "<br>Multiply : " + response.multiply +
+                            "<br>Division : " + response.division;
+
+                $("#result").html(data);
+            },
+            error: function (req,status,errorMsg){
+                $("#result").text(errorMsg);
+            }
+        })
+    }
+
+</script>

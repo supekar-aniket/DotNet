@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\29-bind_multiple_models_with_single_view.props" />
+</Project>

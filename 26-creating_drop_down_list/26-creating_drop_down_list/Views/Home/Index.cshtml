@@ -1,0 +1,27 @@
+﻿@using _26_creating_drop_down_list.Controllers;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div
+
+@* <label class="form-label">Select Gender:</label> *@
+@* @Html.DropDownList("Gender",Html.GetEnumSelectList<Gender>(),"Select Gender", *@
+@*     new {@class = "form-control"}) *@
+
+@* <label class="form-label">Select Gender:</label> *@
+@* @Html.DropDownList("Gender", *@
+@* ViewBag.Gender,"Select Gender", *@
+@* new {@class = "form-control"}) *@
+
+
+@* Prefer this *@
+<label class="form-label">Select Gender:</label>
+<select name="Gender" class="form-control" asp-items="@ViewBag.Gender">
+    <option value=""></option>
+</select>

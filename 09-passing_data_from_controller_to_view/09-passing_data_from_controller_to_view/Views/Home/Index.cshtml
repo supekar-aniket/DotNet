@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>ViewData Example</h1>
+
+@ViewData["name"]
+<br />
+@ViewData["age"]
+<br />
+@ViewData["datetime"]
+<br />
+
+@{
+    foreach(var items in (string[])ViewData["cars"]){
+        <h1>@items</h1>
+    }
+}
+<br />
+
+@{
+    foreach (var items in (List<string>)ViewData["games"])
+    {
+        <h1>@items</h1>
+    }
+}
+

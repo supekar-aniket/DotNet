@@ -1,0 +1,115 @@
+﻿@* This is for single model classa *@
+@* @model IEnumerable<_29_bind_multiple_models_with_single_view.Models.Student> *@
+
+@model _29_bind_multiple_models_with_single_view.Models.SchoolViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<div class="container">
+
+    @if(Model.StudentList.Any())
+    {
+        <h2>Student Data</h2>
+
+        <table class="table table-bordered table-hover table-striped">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Standard</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var stud in Model.StudentList)
+                {
+                    <tr>
+                        <td>@stud.Id</td>
+                        <td>@stud.Name</td>
+                        <td>@stud.Standard</td>
+                        <td>@stud.Address</td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    }
+    else 
+    {
+        <h2>Students Data Not Found</h2>
+    }
+
+    <br /> <br />
+
+    @if (Model.TeacherList.Any())
+    {
+        <h2>Teachers Data</h2>
+
+        <table class="table table-bordered table-hover table-striped">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Department</th>
+                    <th>Salary</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var teach in Model.TeacherList)
+                {
+                    <tr>
+                        <td>@teach.Id</td>
+                        <td>@teach.Name</td>
+                        <td>@teach.Department</td>
+                        <td>@teach.Salary</td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    }
+    else
+    {
+        <h2>Teachers Data Not Found</h2>
+    }
+
+    <br /> <br />
+
+    @if (Model.EmployeeList.Any())
+    {
+        <h2>Employee Data</h2>
+
+        <table class="table table-bordered table-hover table-striped">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Role</th>
+                    <th>Salary</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var teach in Model.EmployeeList)
+                {
+                    <tr>
+                        <td>@teach.Id</td>
+                        <td>@teach.Name</td>
+                        <td>@teach.Role</td>
+                        <td>@teach.Salary</td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    }
+    else
+    {
+        <h2>Employee Data Not Found</h2>
+    }
+
+</div>
+

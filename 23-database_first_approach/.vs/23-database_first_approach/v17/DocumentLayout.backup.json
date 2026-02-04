@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\23-database_first_approach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|d:\\.net\\23-database_first_approach\\23-database_first_approach\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|solutionrelative:23-database_first_approach\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|d:\\.net\\23-database_first_approach\\23-database_first_approach\\models\\databasefirstapproachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|solutionrelative:23-database_first_approach\\models\\databasefirstapproachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|d:\\.net\\23-database_first_approach\\23-database_first_approach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|solutionrelative:23-database_first_approach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|d:\\.net\\23-database_first_approach\\23-database_first_approach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|solutionrelative:23-database_first_approach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|d:\\.net\\23-database_first_approach\\23-database_first_approach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|solutionrelative:23-database_first_approach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|d:\\.net\\23-database_first_approach\\23-database_first_approach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|solutionrelative:23-database_first_approach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|d:\\.net\\23-database_first_approach\\23-database_first_approach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89F21669-DE59-4CE1-AE84-01F89AF76F02}|23-database_first_approach\\23-database_first_approach.csproj|solutionrelative:23-database_first_approach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\Program.cs",
+              "RelativeDocumentMoniker": "23-database_first_approach\\Program.cs",
+              "ToolTip": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\Program.cs",
+              "RelativeToolTip": "23-database_first_approach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:29:00.058Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\appsettings.json",
+              "RelativeDocumentMoniker": "23-database_first_approach\\appsettings.json",
+              "ToolTip": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\appsettings.json",
+              "RelativeToolTip": "23-database_first_approach\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-31T09:18:20.384Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseFirstApproachContext.cs",
+              "DocumentMoniker": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\Models\\DatabaseFirstApproachContext.cs",
+              "RelativeDocumentMoniker": "23-database_first_approach\\Models\\DatabaseFirstApproachContext.cs",
+              "ToolTip": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\Models\\DatabaseFirstApproachContext.cs",
+              "RelativeToolTip": "23-database_first_approach\\Models\\DatabaseFirstApproachContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:17:55.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "23-database_first_approach\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "23-database_first_approach\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T22:47:12.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "23-database_first_approach\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "23-database_first_approach\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T22:42:04.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "23-database_first_approach\\Models\\Teacher.cs",
+              "ToolTip": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\Models\\Teacher.cs",
+              "RelativeToolTip": "23-database_first_approach\\Models\\Teacher.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T21:15:08.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "23-database_first_approach\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\23-database_first_approach\\23-database_first_approach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "23-database_first_approach\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAADwv2UAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T21:06:07.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

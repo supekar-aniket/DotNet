@@ -1,0 +1,27 @@
+﻿@model IEnumerable<_32_Partial_View_with_Models.Models.Product>;
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h1>Products</h1>
+
+<div class="container">
+
+    <div class="row">
+
+        @foreach(var item in Model)
+        {
+            <div class="col-md-4">
+                @* This is for lattest version *@
+                @* <partial name="_ProductPartialView" model="item" />  *@
+
+                @* in MVC 5 *@
+                @await Html.PartialAsync("_ProductPartialView",item)
+            </div>
+        }
+
+    </div>
+
+</div>
+

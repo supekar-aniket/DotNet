@@ -1,0 +1,11 @@
+﻿@model _32_Partial_View_with_Models.Models.Product
+
+<div class="card" style="width: 18rem;">
+    <img src="@Model.Image" asp-append-version="true" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Description</p>
+        <p class="card-text">@Model.Price</p>
+        <a href="#" class="btn btn-primary">View Products</a>
+    </div>
+</div>

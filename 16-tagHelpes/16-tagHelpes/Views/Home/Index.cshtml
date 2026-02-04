@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@* <a href="/Home/Contact">Contact Page 1</a> *@
+@* <br /> *@
+@* @Html.ActionLink("Contact Page 2","Contact","Home") *@
+@* <br /> *@
+@* <a href="@Url.Action("Contact","Home")">Contact Page 3</a> *@
+@* <br /> *@
+@* this is a hiperlink using tagHelpers *@
+@* <a asp-controller="Home" asp-action="Contact">Contact Page 4</a> *@
+
+@* pass id  *@
+
+@* <a href="/Home/Contact/1">Contact Page 1</a> *@
+@* <br /> *@
+@* @Html.ActionLink("Contact Page 2", "Contact", "Home",new {id=1}) *@
+@* <br /> *@
+@* <a href="@Url.Action("Contact","Home",new {id=1})">Contact Page 3</a> *@
+@* <br /> *@
+@* @* this is a hiperlink using tagHelpers *@
+@* <a asp-controller="Home" asp-action="Contact" asp-route-id="1">Contact Page 4</a> *@
+
+
+@* this url not working properly *@
+<a href="/Home/Contact/1">Contact Page 1</a>
+<br />
+@Html.ActionLink("Contact Page 2", "Contact", "Home", new { id = 1 })
+<br />
+<a href="@Url.Action("Contact","Home",new {id=1})">Contact Page 3</a>
+<br />
+@* this is a hiperlink using tagHelpers *@
+<a asp-controller="Home" asp-action="Contact" asp-route-id="1">Contact Page 4</a>

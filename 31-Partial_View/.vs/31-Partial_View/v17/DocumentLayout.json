@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\31-Partial_View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B43F0C0-2C57-4C2D-A318-C524728E9345}|31-Partial_View\\31-Partial_View.csproj|d:\\.net\\31-partial_view\\31-partial_view\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B43F0C0-2C57-4C2D-A318-C524728E9345}|31-Partial_View\\31-Partial_View.csproj|solutionrelative:31-partial_view\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B43F0C0-2C57-4C2D-A318-C524728E9345}|31-Partial_View\\31-Partial_View.csproj|d:\\.net\\31-partial_view\\31-partial_view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B43F0C0-2C57-4C2D-A318-C524728E9345}|31-Partial_View\\31-Partial_View.csproj|solutionrelative:31-partial_view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B43F0C0-2C57-4C2D-A318-C524728E9345}|31-Partial_View\\31-Partial_View.csproj|d:\\.net\\31-partial_view\\31-partial_view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B43F0C0-2C57-4C2D-A318-C524728E9345}|31-Partial_View\\31-Partial_View.csproj|solutionrelative:31-partial_view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B43F0C0-2C57-4C2D-A318-C524728E9345}|31-Partial_View\\31-Partial_View.csproj|d:\\.net\\31-partial_view\\31-partial_view\\views\\shared\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B43F0C0-2C57-4C2D-A318-C524728E9345}|31-Partial_View\\31-Partial_View.csproj|solutionrelative:31-partial_view\\views\\shared\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\.Net\\31-Partial_View\\31-Partial_View\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "31-Partial_View\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\.Net\\31-Partial_View\\31-Partial_View\\Views\\Home\\About.cshtml*",
+              "RelativeToolTip": "31-Partial_View\\Views\\Home\\About.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T09:15:11.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\31-Partial_View\\31-Partial_View\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "31-Partial_View\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\31-Partial_View\\31-Partial_View\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "31-Partial_View\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:09:12.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\31-Partial_View\\31-Partial_View\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "31-Partial_View\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\31-Partial_View\\31-Partial_View\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "31-Partial_View\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T08:51:48.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_PartialView.cshtml",
+              "DocumentMoniker": "D:\\.Net\\31-Partial_View\\31-Partial_View\\Views\\Shared\\_PartialView.cshtml",
+              "RelativeDocumentMoniker": "31-Partial_View\\Views\\Shared\\_PartialView.cshtml",
+              "ToolTip": "D:\\.Net\\31-Partial_View\\31-Partial_View\\Views\\Shared\\_PartialView.cshtml",
+              "RelativeToolTip": "31-Partial_View\\Views\\Shared\\_PartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T08:53:33.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

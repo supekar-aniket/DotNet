@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\39-bind_model_to_view\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB10107-90BD-44D0-A9B7-94A7841F278D}|39-bind_model_to_view\\39-bind_model_to_view.csproj|d:\\.net\\39-bind_model_to_view\\39-bind_model_to_view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BB10107-90BD-44D0-A9B7-94A7841F278D}|39-bind_model_to_view\\39-bind_model_to_view.csproj|solutionrelative:39-bind_model_to_view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB10107-90BD-44D0-A9B7-94A7841F278D}|39-bind_model_to_view\\39-bind_model_to_view.csproj|d:\\.net\\39-bind_model_to_view\\39-bind_model_to_view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB10107-90BD-44D0-A9B7-94A7841F278D}|39-bind_model_to_view\\39-bind_model_to_view.csproj|solutionrelative:39-bind_model_to_view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB10107-90BD-44D0-A9B7-94A7841F278D}|39-bind_model_to_view\\39-bind_model_to_view.csproj|d:\\.net\\39-bind_model_to_view\\39-bind_model_to_view\\models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB10107-90BD-44D0-A9B7-94A7841F278D}|39-bind_model_to_view\\39-bind_model_to_view.csproj|solutionrelative:39-bind_model_to_view\\models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\39-bind_model_to_view\\39-bind_model_to_view\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "39-bind_model_to_view\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\39-bind_model_to_view\\39-bind_model_to_view\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "39-bind_model_to_view\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:39:30.706Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\.Net\\39-bind_model_to_view\\39-bind_model_to_view\\Models\\Calculation.cs",
+              "RelativeDocumentMoniker": "39-bind_model_to_view\\Models\\Calculation.cs",
+              "ToolTip": "D:\\.Net\\39-bind_model_to_view\\39-bind_model_to_view\\Models\\Calculation.cs",
+              "RelativeToolTip": "39-bind_model_to_view\\Models\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:04:18.349Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\39-bind_model_to_view\\39-bind_model_to_view\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "39-bind_model_to_view\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\39-bind_model_to_view\\39-bind_model_to_view\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "39-bind_model_to_view\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T04:39:41.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

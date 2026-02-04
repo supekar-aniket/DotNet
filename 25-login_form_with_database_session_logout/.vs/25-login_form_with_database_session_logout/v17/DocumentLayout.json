@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\25-login_form_with_database_session_logout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|d:\\.net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|solutionrelative:25-login_form_with_database_session_logout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|d:\\.net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|solutionrelative:25-login_form_with_database_session_logout\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|d:\\.net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|solutionrelative:25-login_form_with_database_session_logout\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|d:\\.net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|solutionrelative:25-login_form_with_database_session_logout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|d:\\.net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|solutionrelative:25-login_form_with_database_session_logout\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|d:\\.net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|solutionrelative:25-login_form_with_database_session_logout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|d:\\.net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{249EFEBE-E3B0-49D4-975E-5CFD0A2DC426}|25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout.csproj|solutionrelative:25-login_form_with_database_session_logout\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Program.cs",
+              "RelativeDocumentMoniker": "25-login_form_with_database_session_logout\\Program.cs",
+              "ToolTip": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Program.cs",
+              "RelativeToolTip": "25-login_form_with_database_session_logout\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:16:05.247Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "25-login_form_with_database_session_logout\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "25-login_form_with_database_session_logout\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:16:10.046Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Models\\User.cs",
+              "RelativeDocumentMoniker": "25-login_form_with_database_session_logout\\Models\\User.cs",
+              "ToolTip": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Models\\User.cs",
+              "RelativeToolTip": "25-login_form_with_database_session_logout\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:08:41.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "25-login_form_with_database_session_logout\\Views\\Home\\Register.cshtml",
+              "ToolTip": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "25-login_form_with_database_session_logout\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T17:35:41.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "25-login_form_with_database_session_logout\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "25-login_form_with_database_session_logout\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T19:30:44.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "25-login_form_with_database_session_logout\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "25-login_form_with_database_session_logout\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:47:15.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "25-login_form_with_database_session_logout\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\.Net\\25-login_form_with_database_session_logout\\25-login_form_with_database_session_logout\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "25-login_form_with_database_session_logout\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T19:25:53.005Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

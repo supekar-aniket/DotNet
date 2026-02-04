@@ -1,0 +1,40 @@
+﻿@model Student;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <form class="d-grid " asp-controller="Home" asp-action="Index" method="post">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" placeholder="Enter Name" class="form-control"/>
+                <span asp-validation-for="Name" style="color:red"></span>
+                <br />
+                <label asp-for="Email"></label>
+                <input asp-for="Email" placeholder="Enter Email" class="form-control" />
+                <span asp-validation-for="Email" style="color:red"></span>
+                <br />
+                <label asp-for="Age"></label>
+                <input asp-for="Age" placeholder="Enter Age" class="form-control" />
+                <span asp-validation-for="Age" style="color:red"></span>
+                <br />
+                <label asp-for="Password"></label>
+                <input asp-for="Password" placeholder="Enter Password" class="form-control" />
+                <span asp-validation-for="Password" style="color:red"></span>
+                <br />
+                <label asp-for="ConfirmPassword"></label>
+                <input asp-for="ConfirmPassword" placeholder="Enter Confirm Password" class="form-control" />
+                <span asp-validation-for="ConfirmPassword" style="color:red"></span>
+                <br />
+                <input type="submit" value="Submit"  class="btn btn-outline-primary btn-block" />
+            </form>
+        </div>
+    </div>
+</div>

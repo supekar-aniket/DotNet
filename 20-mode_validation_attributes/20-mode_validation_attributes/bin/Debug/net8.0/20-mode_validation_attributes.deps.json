@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "20-mode_validation_attributes/1.0.0": {
+        "runtime": {
+          "20-mode_validation_attributes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20-mode_validation_attributes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

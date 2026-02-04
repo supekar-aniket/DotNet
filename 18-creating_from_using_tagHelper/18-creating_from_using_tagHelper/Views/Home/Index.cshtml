@@ -1,0 +1,56 @@
+﻿@model _18_creating_from_using_tagHelper.Models.Employee
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <form class="d-grid" asp-action="Index" asp-controller="Home" method="post">
+                <label asp-for="Name">Name:</label>
+                <input asp-for="Name" placeholder="Enter Name" class="form-control"/>
+                <br />
+                <label asp-for="Gender">Gender:</label>
+                <select asp-for="Gender" class="form-control" asp-items="Html.GetEnumSelectList<Gender>()">
+                    <option value="Gender">Select Gender</option>
+                </select>
+                <br />
+                <label asp-for="Age">Age:</label>
+                <input asp-for="Age" placeholder="Enter Age" class="form-control" />
+                <br />
+                <label>
+                    Married:
+                </label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Married" value="Yes">
+                    <label class="form-check-label" for="flexRadioDefault1">
+                        Yes
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Married" value="No">
+                    <label class="form-check-label" for="flexRadioDefault2">
+                        No
+                    </label>
+                </div>
+                <br />
+                <label asp-for="Designation">Designation:</label>
+                <input asp-for="Designation" placeholder="Enter Designation" class="form-control" />
+                <br />
+                <label asp-for="Salary">Salary:</label>
+                <input asp-for="Salary" placeholder="Enter Salary" class="form-control" />
+                <br />
+                <label asp-for="Description">Description</label>
+                <textarea asp-for="Description" class="form-control" placeholder="Enter Description"></textarea>
+                <br />
+                <button class="btn btn-outline-primary btn" value="Submit">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "38-pass_data_view_to_controller_using_jQuery/1.0.0": {
+        "runtime": {
+          "38-pass_data_view_to_controller_using_jQuery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "38-pass_data_view_to_controller_using_jQuery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\35-CRUD_using_web_API_34\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDFCFF3-EE26-4245-ACE8-689A707AA68F}|35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34.csproj|d:\\.net\\35-crud_using_web_api_34\\35-crud_using_web_api_34\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CDFCFF3-EE26-4245-ACE8-689A707AA68F}|35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34.csproj|solutionrelative:35-crud_using_web_api_34\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDFCFF3-EE26-4245-ACE8-689A707AA68F}|35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34.csproj|d:\\.net\\35-crud_using_web_api_34\\35-crud_using_web_api_34\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDFCFF3-EE26-4245-ACE8-689A707AA68F}|35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34.csproj|solutionrelative:35-crud_using_web_api_34\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDFCFF3-EE26-4245-ACE8-689A707AA68F}|35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34.csproj|d:\\.net\\35-crud_using_web_api_34\\35-crud_using_web_api_34\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CDFCFF3-EE26-4245-ACE8-689A707AA68F}|35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34.csproj|solutionrelative:35-crud_using_web_api_34\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDFCFF3-EE26-4245-ACE8-689A707AA68F}|35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34.csproj|d:\\.net\\35-crud_using_web_api_34\\35-crud_using_web_api_34\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDFCFF3-EE26-4245-ACE8-689A707AA68F}|35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34.csproj|solutionrelative:35-crud_using_web_api_34\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.Net\\35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "35-CRUD_using_web_API_34\\Models\\Student.cs",
+              "ToolTip": "D:\\.Net\\35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34\\Models\\Student.cs",
+              "RelativeToolTip": "35-CRUD_using_web_API_34\\Models\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:27:00.845Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\.Net\\35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "35-CRUD_using_web_API_34\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\.Net\\35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "35-CRUD_using_web_API_34\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAIMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:29:51.181Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\.Net\\35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "35-CRUD_using_web_API_34\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\.Net\\35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "35-CRUD_using_web_API_34\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T11:01:59.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "35-CRUD_using_web_API_34\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\35-CRUD_using_web_API_34\\35-CRUD_using_web_API_34\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "35-CRUD_using_web_API_34\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T10:34:19.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

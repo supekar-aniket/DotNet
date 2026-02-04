@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\20-mode_validation_attributes.props" />
+</Project>

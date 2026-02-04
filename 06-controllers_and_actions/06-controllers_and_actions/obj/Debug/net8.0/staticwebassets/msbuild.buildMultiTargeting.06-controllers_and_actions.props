@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\06-controllers_and_actions.props" />
+</Project>

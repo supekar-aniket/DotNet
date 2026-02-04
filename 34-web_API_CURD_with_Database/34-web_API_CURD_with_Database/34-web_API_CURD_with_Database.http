@@ -1,0 +1,6 @@
+@_34_web_API_CURD_with_Database_HostAddress = http://localhost:5299
+
+GET {{_34_web_API_CURD_with_Database_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
